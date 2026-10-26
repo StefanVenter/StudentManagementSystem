@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/database/">
+    <File Path="database/01_create_schema.sql" />
+    <File Path="database/02_seed_data.sql" />
+    <File Path="database/03_crud_and_report_queries.sql" />
+  </Folder>
+  <Project Path="StduentManagementSystem/StduentManagementSystem.csproj" />
+  <Project Path="StduentManagementSystem.Core/StduentManagementSystem.Core.csproj" />
+  <Project Path="StduentManagementSystem.Tests/StduentManagementSystem.Tests.csproj" />
+</Solution>

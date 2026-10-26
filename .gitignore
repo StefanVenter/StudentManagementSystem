@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+.vs/
+TestResults/
+*.log
+
+# Secrets - never commit real credentials
+.env
+appsettings.Development.json
+appsettings.Local.json
